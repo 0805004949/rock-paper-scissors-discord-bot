@@ -1,0 +1,32 @@
+{
+  "name": "rock-paper-scissors-discord-bot",
+  "version": "1.0.0",
+  "description": "my first discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0805004949/rock-paper-scissors-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js"
+  ],
+  "author": "x0805004949",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0805004949/rock-paper-scissors-discord-bot/issues"
+  },
+  "homepage": "https://github.com/0805004949/rock-paper-scissors-discord-bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
